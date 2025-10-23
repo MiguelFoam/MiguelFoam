@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguelfernandez13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandezalejandro430@gmail.com)
 
-I am a SQL Developer and Web Designer passionate about new technologies and continuous learning in the IT field. I specialize in relational databases (SQL Server, PostgreSQL, Oracle PL/SQL) and front-end developent (HTML, CSS, TypeScript). Constantly exploring tools like Git, Pentaho and Angular to enhace my workflow.
+I am a SQL Developer passionate about new technologies and continuous learning in the IT field. I specialize in relational databases (SQL Server, PostgreSQL, Oracle PL/SQL) and front-end developent (HTML, CSS, TypeScript). Constantly exploring tools like Git, Pentaho and Angular to enhace my workflow.
 With a strong foundation in database architecture, query optimization, and responsive web design, I thrive on turning complex problems into efficient, user-friendly solution. My goal is to merge functionality with creativity, ensuring robust systems and seamless digital experiences.
 
 ### Languages and Frameworks
